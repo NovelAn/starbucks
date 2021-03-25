@@ -30,7 +30,7 @@ git clone [项目源码链接]
 
   
   $$
-  IRR = \frac{purch_{treat}}{cust_{treat}} - \frac{purch_{ctrl}}{cust_{ctrl}} $
+  IRR = \frac{purch_{treat}}{cust_{treat}} - \frac{purch_{ctrl}}{cust_{ctrl}}
   $$
 
 - 净增量收入 (NIR)
